@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Installing Dependencies
-echo "########################################"
+echo "#######################################"
 echo "Installing packages."
 echo "########################################"
 sudo yum install wget unzip httpd -y > /dev/null
